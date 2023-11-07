@@ -1,0 +1,17 @@
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\bin\Debug\Test.exe.config
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\bin\Debug\Test.exe
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\bin\Debug\Test.pdb
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\bin\Debug\SFML.Audio.dll
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\bin\Debug\SFML.Graphics.dll
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\bin\Debug\SFML.System.dll
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\bin\Debug\SFML.Window.dll
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\bin\Debug\SFML.Audio.xml
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\bin\Debug\SFML.Graphics.xml
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\bin\Debug\SFML.System.xml
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\bin\Debug\SFML.Window.xml
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\obj\Debug\Test.exe
+C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Test\obj\Debug\Test.pdb
