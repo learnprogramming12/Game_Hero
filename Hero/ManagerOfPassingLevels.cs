@@ -165,7 +165,7 @@ namespace Hero
                         }
                         break;
                     case DifficultyLevel.Level8:
-                        level = DifficultyLevel.NoMore;
+                        level = DifficultyLevel.Level8;
                         if (_bossAppeared == false)
                         {
                             _bossAppeared = true;
@@ -176,26 +176,44 @@ namespace Hero
                         else
                             _listOfEnemyFormation.AddLast(new FormationOfVShapeEnemy(FormationOfVShapeEnemy.FormationSize.Seven, 5, 0.5f, AircraftType.AircraftOfHarpyEagle));
                         break;
-                    case DifficultyLevel.NoMore:
+/*                    case DifficultyLevel.NoMore:
                         Player.PlayerState = PlayerState.Win;
-                        break;
+                        break;*/
 
                 }
                 _countForEachWave++;
                 if(_countForEachWave >= _prefferedNumOfEnemyFormation)
                 {
-                    //it's time to be regarded as a attack wave
+                    //it's time to be regarded as an attack wave
                     _countForWavesOfAttack++;
                     _countForEachWave = 0;
                 }
-                if(_countForWavesOfAttack >= _conditionOfIncreaseDifficulty)
+                if (_difficultyLevel == DifficultyLevel.Level8)
                 {
+                    bool bBossAlive = false;
+                    for (int j = 0; j < _listOfEnemyFormation.Count; j++)
+                    {
+                        if (_listOfEnemyFormation[j].AircraftType == AircraftType.AircraftOfBoss)
+                        {
+                            bBossAlive = true;
+                            break;
+                        }
+                    }
+                    if (bBossAlive == false)
+                    {
+                        Player.PlayerState = PlayerState.Win;
+                        break;
+                    }
+                    else
+                    {//As long as the boss is alive, the attack will continue
+                        continue;
+                    }
+                }
+                if (_countForWavesOfAttack >= _conditionOfIncreaseDifficulty)
+                {
+                    _difficultyLevel = level;
                     //it's time to enter the next difficulty level
                     _countForWavesOfAttack = 0;
-                    _difficultyLevel = level;
-                    if (_difficultyLevel == DifficultyLevel.NoMore)
-                        Player.PlayerState = PlayerState.Win;
-
                     break;
                 }
             }

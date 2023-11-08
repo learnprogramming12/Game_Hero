@@ -10,7 +10,7 @@ namespace Hero
     internal class FormationOfSlashShapeEnemy:EnemyFormation
     {
         public FormationOfSlashShapeEnemy(int numOfAircraftsInFormation, int numOfAircraftWillFire,
-            float fireFrequency, AircraftType aircraftType = AircraftType.AircraftOfGoldenEagle) : base(numOfAircraftsInFormation, numOfAircraftWillFire, fireFrequency)
+            float fireFrequency, AircraftType aircraftType = AircraftType.AircraftOfGoldenEagle) : base(numOfAircraftsInFormation, numOfAircraftWillFire, fireFrequency, aircraftType)
         {
             _formationType = FormationType.SlashShape;
 

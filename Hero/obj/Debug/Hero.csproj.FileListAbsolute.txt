@@ -54,3 +54,8 @@ C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Hero\obj\Debug\Hero.csproj.C
 C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Hero\obj\Debug\Hero.csproj.CopyComplete
 C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Hero\obj\Debug\Hero.exe
 C:\Users\Cuixiupeng\Desktop\MiniProject\MiniProject\Hero\obj\Debug\Hero.pdb
+D:\GDinComputing\Seme_1\StructureAndAlgorithm\assignment\MiniProject\Hero\bin\Debug\csfml-Audio.dll
+D:\GDinComputing\Seme_1\StructureAndAlgorithm\assignment\MiniProject\Hero\bin\Debug\csfml-Graphics.dll
+D:\GDinComputing\Seme_1\StructureAndAlgorithm\assignment\MiniProject\Hero\bin\Debug\csfml-System.dll
+D:\GDinComputing\Seme_1\StructureAndAlgorithm\assignment\MiniProject\Hero\bin\Debug\csfml-Window.dll
+D:\GDinComputing\Seme_1\StructureAndAlgorithm\assignment\MiniProject\Hero\bin\Debug\openal32.dll

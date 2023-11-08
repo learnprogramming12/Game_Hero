@@ -18,7 +18,7 @@ namespace Hero
         private DoubleLinkedList<float> _rotationOfAllAircrafts = new DoubleLinkedList<float>();
 
         public FormationOfHorizonShapeEnemy(int numOfAircraftsInFormation, int numOfAircraftWillFire, 
-            float fireFrequency, float rotationAngleEachTime = 2f, AircraftType aircraftType = AircraftType.AircraftOfGoldenEagle) : base(numOfAircraftsInFormation, numOfAircraftWillFire, fireFrequency) 
+            float fireFrequency, float rotationAngleEachTime = 2f, AircraftType aircraftType = AircraftType.AircraftOfGoldenEagle) : base(numOfAircraftsInFormation, numOfAircraftWillFire, fireFrequency, aircraftType) 
         {
             _formationType = FormationType.HorizonShape;
             _flyRangeY = Game.WindowSize.Y / 3f;

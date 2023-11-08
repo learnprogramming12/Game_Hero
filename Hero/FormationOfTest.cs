@@ -13,7 +13,7 @@ namespace Hero
     {
         private float _flyRangeY;
         public FormationOfTest(int numOfAircraftsInFormation, int numOfAircraftWillFire,
-    float fireFrequency, float rotationAngleEachTime = 2f, AircraftType aircraftType = AircraftType.AircraftOfHarpyEagle) : base(numOfAircraftsInFormation, numOfAircraftWillFire, fireFrequency)
+    float fireFrequency, float rotationAngleEachTime = 2f, AircraftType aircraftType = AircraftType.AircraftOfHarpyEagle) : base(numOfAircraftsInFormation, numOfAircraftWillFire, fireFrequency, aircraftType)
         {
             _formationType = FormationType.HorizonShape;
             _flyRangeY = Game.WindowSize.Y / 3f;

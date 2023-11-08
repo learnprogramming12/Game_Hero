@@ -22,7 +22,7 @@ namespace Hero
        // private DoubleLinkedList<bool> _isRotatedOfAllAircrafts = new DoubleLinkedList<bool>();
         private PrizeType _prizeType;
         public FormationOfVShapeEnemy(FormationSize formationSize, int numOfAircraftWillFire,
-            float fireFrequency, AircraftType aircraftType = AircraftType.AircraftOfGoldenEagle, PrizeType prizeTypeAfterAllDestoyed = PrizeType.None) : base(ValidateParameterOfFormationSize(formationSize), numOfAircraftWillFire, fireFrequency)
+            float fireFrequency, AircraftType aircraftType = AircraftType.AircraftOfGoldenEagle, PrizeType prizeTypeAfterAllDestoyed = PrizeType.None) : base(ValidateParameterOfFormationSize(formationSize), numOfAircraftWillFire, fireFrequency, aircraftType)
         {
             _formationType = FormationType.VShape;
             //_flyRangeY = window.Size.Y / 5f * 2;

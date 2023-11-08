@@ -48,6 +48,7 @@ namespace Hero
         }
         private void init()
         {
+            Console.WriteLine("---------------Game Start---------------");
             _player.init();
             _formationManager.init();
             ManagerOfAnimation.init();

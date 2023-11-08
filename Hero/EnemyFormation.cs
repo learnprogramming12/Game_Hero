@@ -19,6 +19,7 @@ namespace Hero
     internal abstract class EnemyFormation
     {
         protected FormationType _formationType = FormationType.None;
+        protected AircraftType _aircraftType;
         protected int _numOfAircraftsInFormation;
         protected int _numOfAircraftWillFire;//number of aircrafts that will fire in order to coordinate the firepower. Can be used to different difficluty level by changing it
         protected int _numOfAircraftDestroyedByPlayer = 0;
@@ -28,18 +29,20 @@ namespace Hero
         //protected RenderWindow _window;
 
         public FormationType FormationType { get { return _formationType; } }
+        public AircraftType AircraftType { get { return _aircraftType; } }
         protected abstract void CreateFormation(AircraftType type);
         public abstract void Update(Player player);
         
         //fireFrequency means how long aircraft fire once outside. Inside it means how many frame update it ignores until it fires.
         //for example, if the firing frequency is 0.5, it means every 2 seconds the formation will coordinate firing
         public EnemyFormation(int numOfAircraftsInFormation, int numOfAircraftWillFire,
-            float fireFrequency)
+            float fireFrequency, AircraftType aircraftType)
         {
             //_window = window;
             _fireDelay = Convert.ToInt32((float)Game.FrameLimit / fireFrequency);
             _numOfAircraftsInFormation = numOfAircraftsInFormation;
             _numOfAircraftWillFire = numOfAircraftWillFire;
+            _aircraftType = aircraftType;
             if (numOfAircraftWillFire > numOfAircraftsInFormation)
                 _numOfAircraftWillFire = numOfAircraftsInFormation;
 
