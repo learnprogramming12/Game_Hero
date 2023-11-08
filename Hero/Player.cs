@@ -100,7 +100,7 @@ namespace Hero
             spriteColor.A = 255;
             _sprite.Color = spriteColor;
             _weaponSystem = new WeaponSystem(_sprite, WeaponSystem.FirepowerIntensity.SingleMissle);
-            _healthSystem = new HealthSystem(100);
+            _healthSystem = new HealthSystem(10);
             _healthSystem.Init(true, new Vector2f(800, 850), new Vector2f(80, 10), Color.Green);
         }
         public WeaponSystem.FirepowerIntensity getWeaponType()
