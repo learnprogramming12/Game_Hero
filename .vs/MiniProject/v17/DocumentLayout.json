@@ -1,0 +1,596 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|d:\\gdincomputing\\seme_1\\structureandalgorithm\\assignment\\miniproject\\hero\\texturemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\texturemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\managerofpassinglevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\managerofpassinglevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\weaponsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\weaponsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\formationoftest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\formationoftest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\formationofhorizonshapeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\formationofhorizonshapeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\formationofvshapeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\formationofvshapeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\formationofslashshapeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\formationofslashshapeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\enemyformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\enemyformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\aircraftofenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\aircraftofenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\aircraftofboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\aircraftofboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\aircraftofharpyeagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\aircraftofharpyeagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\messagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\messagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\aircraftofrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\aircraftofrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\managerofplayerfiredprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\managerofplayerfiredprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\aircraftofhoneybadger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\aircraftofhoneybadger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\aircraftofgoldeneagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\aircraftofgoldeneagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\aircraftofenemytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\aircraftofenemytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\doublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\doublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\cruisemissile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\cruisemissile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\collisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\collisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\managerofenemyfiredprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\managerofenemyfiredprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\managerofprize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\managerofprize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\managerofmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\managerofmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\managerofanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\managerofanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\hero\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A00708-4157-4040-B529-C48F5B7B7933}|Hero\\Hero.csproj|solutionrelative:hero\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C55EB5-4DC0-4EBB-83B2-6F96DEA166EA}|Test\\Test.csproj|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C55EB5-4DC0-4EBB-83B2-6F96DEA166EA}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\Shmup-master\\Shmup-master\\shmup\\TextureManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ManagerOfAnimation.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\ManagerOfAnimation.cs",
+              "RelativeDocumentMoniker": "Hero\\ManagerOfAnimation.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\ManagerOfAnimation.cs",
+              "RelativeToolTip": "Hero\\ManagerOfAnimation.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwB4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Button.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Button.cs",
+              "RelativeDocumentMoniker": "Hero\\Button.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Button.cs",
+              "RelativeToolTip": "Hero\\Button.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MessageBox.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\MessageBox.cs",
+              "RelativeDocumentMoniker": "Hero\\MessageBox.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\MessageBox.cs",
+              "RelativeToolTip": "Hero\\MessageBox.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAG4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CruiseMissile.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\CruiseMissile.cs",
+              "RelativeDocumentMoniker": "Hero\\CruiseMissile.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\CruiseMissile.cs",
+              "RelativeToolTip": "Hero\\CruiseMissile.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAzwCgAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AircraftOfBoss.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfBoss.cs",
+              "RelativeDocumentMoniker": "Hero\\AircraftOfBoss.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfBoss.cs",
+              "RelativeToolTip": "Hero\\AircraftOfBoss.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AircraftOfHoneyBadger.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfHoneyBadger.cs",
+              "RelativeDocumentMoniker": "Hero\\AircraftOfHoneyBadger.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfHoneyBadger.cs",
+              "RelativeToolTip": "Hero\\AircraftOfHoneyBadger.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABYAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AircraftOfRotation.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfRotation.cs",
+              "RelativeDocumentMoniker": "Hero\\AircraftOfRotation.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfRotation.cs",
+              "RelativeToolTip": "Hero\\AircraftOfRotation.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AircraftOfHarpyEagle.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfHarpyEagle.cs",
+              "RelativeDocumentMoniker": "Hero\\AircraftOfHarpyEagle.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfHarpyEagle.cs",
+              "RelativeToolTip": "Hero\\AircraftOfHarpyEagle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AircraftOfGoldenEagle.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfGoldenEagle.cs",
+              "RelativeDocumentMoniker": "Hero\\AircraftOfGoldenEagle.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfGoldenEagle.cs",
+              "RelativeToolTip": "Hero\\AircraftOfGoldenEagle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Animation.cs",
+              "RelativeDocumentMoniker": "Hero\\Animation.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Animation.cs",
+              "RelativeToolTip": "Hero\\Animation.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TextureManager.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\Shmup-master\\Shmup-master\\shmup\\TextureManager.cs",
+              "RelativeDocumentMoniker": "..\\Shmup-master\\Shmup-master\\shmup\\TextureManager.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\Shmup-master\\Shmup-master\\shmup\\TextureManager.cs",
+              "RelativeToolTip": "..\\Shmup-master\\Shmup-master\\shmup\\TextureManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-27T04:15:18.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AircraftOfEnemyTest.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfEnemyTest.cs",
+              "RelativeDocumentMoniker": "Hero\\AircraftOfEnemyTest.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfEnemyTest.cs",
+              "RelativeToolTip": "Hero\\AircraftOfEnemyTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormationOfTest.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\FormationOfTest.cs",
+              "RelativeDocumentMoniker": "Hero\\FormationOfTest.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\FormationOfTest.cs",
+              "RelativeToolTip": "Hero\\FormationOfTest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAADOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManagerOfPrize.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\ManagerOfPrize.cs",
+              "RelativeDocumentMoniker": "Hero\\ManagerOfPrize.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\ManagerOfPrize.cs",
+              "RelativeToolTip": "Hero\\ManagerOfPrize.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAEIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManagerOfPlayerFiredProjectile.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\ManagerOfPlayerFiredProjectile.cs",
+              "RelativeDocumentMoniker": "Hero\\ManagerOfPlayerFiredProjectile.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\ManagerOfPlayerFiredProjectile.cs",
+              "RelativeToolTip": "Hero\\ManagerOfPlayerFiredProjectile.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CollisionTest.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\CollisionTest.cs",
+              "RelativeDocumentMoniker": "Hero\\CollisionTest.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\CollisionTest.cs",
+              "RelativeToolTip": "Hero\\CollisionTest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeaponSystem.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\WeaponSystem.cs",
+              "RelativeDocumentMoniker": "Hero\\WeaponSystem.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\WeaponSystem.cs",
+              "RelativeToolTip": "Hero\\WeaponSystem.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthSystem.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\HealthSystem.cs",
+              "RelativeDocumentMoniker": "Hero\\HealthSystem.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\HealthSystem.cs",
+              "RelativeToolTip": "Hero\\HealthSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Tools.cs",
+              "RelativeDocumentMoniker": "Hero\\Tools.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Tools.cs",
+              "RelativeToolTip": "Hero\\Tools.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextManager.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\TextManager.cs",
+              "RelativeDocumentMoniker": "Hero\\TextManager.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\TextManager.cs",
+              "RelativeToolTip": "Hero\\TextManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Projectile.cs",
+              "RelativeDocumentMoniker": "Hero\\Projectile.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Projectile.cs",
+              "RelativeToolTip": "Hero\\Projectile.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Background.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Background.cs",
+              "RelativeDocumentMoniker": "Hero\\Background.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Background.cs",
+              "RelativeToolTip": "Hero\\Background.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DoubleLinkedList.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\DoubleLinkedList.cs",
+              "RelativeDocumentMoniker": "Hero\\DoubleLinkedList.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\DoubleLinkedList.cs",
+              "RelativeToolTip": "Hero\\DoubleLinkedList.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAswPAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManagerOfEnemyFiredProjectile.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\ManagerOfEnemyFiredProjectile.cs",
+              "RelativeDocumentMoniker": "Hero\\ManagerOfEnemyFiredProjectile.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\ManagerOfEnemyFiredProjectile.cs",
+              "RelativeToolTip": "Hero\\ManagerOfEnemyFiredProjectile.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormationOfSlashShapeEnemy.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\FormationOfSlashShapeEnemy.cs",
+              "RelativeDocumentMoniker": "Hero\\FormationOfSlashShapeEnemy.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\FormationOfSlashShapeEnemy.cs",
+              "RelativeToolTip": "Hero\\FormationOfSlashShapeEnemy.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAhwAwAAAC1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyFormation.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\EnemyFormation.cs",
+              "RelativeDocumentMoniker": "Hero\\EnemyFormation.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\EnemyFormation.cs",
+              "RelativeToolTip": "Hero\\EnemyFormation.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Program.cs",
+              "RelativeDocumentMoniker": "Hero\\Program.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Program.cs",
+              "RelativeToolTip": "Hero\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormationOfVShapeEnemy.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\FormationOfVShapeEnemy.cs",
+              "RelativeDocumentMoniker": "Hero\\FormationOfVShapeEnemy.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\FormationOfVShapeEnemy.cs",
+              "RelativeToolTip": "Hero\\FormationOfVShapeEnemy.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:00.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormationOfHorizonShapeEnemy.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\FormationOfHorizonShapeEnemy.cs",
+              "RelativeDocumentMoniker": "Hero\\FormationOfHorizonShapeEnemy.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\FormationOfHorizonShapeEnemy.cs",
+              "RelativeToolTip": "Hero\\FormationOfHorizonShapeEnemy.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:01.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextureManager.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\TextureManager.cs",
+              "RelativeDocumentMoniker": "Hero\\TextureManager.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\TextureManager.cs",
+              "RelativeToolTip": "Hero\\TextureManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:02.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Player.cs",
+              "RelativeDocumentMoniker": "Hero\\Player.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Player.cs",
+              "RelativeToolTip": "Hero\\Player.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAF0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:02.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Game.cs",
+              "RelativeDocumentMoniker": "Hero\\Game.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\Game.cs",
+              "RelativeToolTip": "Hero\\Game.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:02.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ManagerOfMusic.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\ManagerOfMusic.cs",
+              "RelativeDocumentMoniker": "Hero\\ManagerOfMusic.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\ManagerOfMusic.cs",
+              "RelativeToolTip": "Hero\\ManagerOfMusic.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAABcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:02.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AircraftOfEnemy.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfEnemy.cs",
+              "RelativeDocumentMoniker": "Hero\\AircraftOfEnemy.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\AircraftOfEnemy.cs",
+              "RelativeToolTip": "Hero\\AircraftOfEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:02.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerOfPassingLevels.cs",
+              "DocumentMoniker": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\ManagerOfPassingLevels.cs",
+              "RelativeDocumentMoniker": "Hero\\ManagerOfPassingLevels.cs",
+              "ToolTip": "D:\\GDinComputing\\Seme_1\\StructureAndAlgorithm\\assignment\\MiniProject\\Hero\\ManagerOfPassingLevels.cs",
+              "RelativeToolTip": "Hero\\ManagerOfPassingLevels.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAACsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-08T03:37:02.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
